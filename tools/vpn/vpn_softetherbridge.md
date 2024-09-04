@@ -13,7 +13,11 @@ create a service and a configuration file.
 - Select Platform -> Linux
 - Select CPU -> ARM EABI (32bit)
 - Download newest file
-- (as of this writing, newest file is: https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.34-9745-beta/softether-vpnbridge-v4.34-9745-beta-2020.04.05-linux-arm_eabi-32bit.tar.gz )
+- As of this writing, newest file is:
+      - [ARM-64bit](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.41-9782-beta/softether-vpnbridge-v4.41-9782-beta-2022.11.17-linux-arm64-64bit.tar.gz)
+      - [ARM-32bit](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases/download/v4.41-9782-beta/softether-vpnbridge-v4.41-9782-beta-2022.11.17-linux-arm_eabi-32bit.tar.gz)
+      - [Github_Releases_Page](https://github.com/SoftEtherVPN/SoftEtherVPN_Stable/releases)
+      - [Dev_Ver_Release_Page](https://github.com/SoftEtherVPN/SoftEtherVPN/releases)
 
 ## 2. Extract Downloaded Archive File
 
